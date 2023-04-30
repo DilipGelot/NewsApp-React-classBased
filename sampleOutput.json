@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "TIMESOFINDIA.COM",
+      "title": "PBKS vs LSG, IPL 2023, Highlights: Marcus Stoinis, Kyle Mayers sizzle in Lucknow Super Giants' big win ov - Times of India",
+      "description": "Cricket News: Marcus Stoinis and Kyle Mayers scored brutal fifties, while medium pacer Yash Thakur claimed four wickets as Lucknow Super Giants crushed Punjab Kings",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/pbks-vs-lsg-ipl-2023-highlights-marcus-stoinis-kyle-mayers-sizzle-in-lucknow-super-giants-big-win-over-punjab-kings/articleshow/99854217.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-99854220,width-1070,height-580,imgsize-76434,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-04-28T18:23:00Z",
+      "content": "NBA: Action pics of playoffs"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Filmfare Awards 2023: Anil Kapoor's Gratitude Note After \"Iconic Achievement\" Is All Heart - NDTV",
+      "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+      "url": "https://www.ndtv.com/",
+      "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+      "publishedAt": "2023-04-28T11:42:28Z",
+      "content": "If you are a climate change warrior or know someone who is doing incredible work in this space, send us your entries and we'll bring the most innovative stories to the world."
+    }
+  ]
+}
